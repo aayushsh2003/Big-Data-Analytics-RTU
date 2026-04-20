@@ -224,7 +224,7 @@ export default function App() {
           <div className="mt-12 pt-8 border-t-2 border-ink-black/20">
             <span className="editorial-label block mb-4">Lead Developer</span>
             <a 
-              href="https://aayush-ki-pehchan.vercel.app/" 
+              href="https://big-data-analytics-rtu.vercel.app/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="group block"

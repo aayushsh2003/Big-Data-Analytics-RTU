@@ -4,6 +4,7 @@ A comprehensive, interactive study platform designed for students to master Big 
 
 ## 🚀 Features
 
+- **Production URL:** [https://big-data-analytics-rtu.vercel.app/](https://big-data-analytics-rtu.vercel.app/)
 - **Structured Curriculum:** Detailed notes for all 6 units, from Big Data basics to advanced Hive querying.
 - **Viva Readiness:** Integrated "Viva-Ready" answers and "Memory Tricks" for every key topic.
 - **Interactive Diagrams:** Custom SVG schematics for GFS, HDFS, MapReduce, Hive Architecture, and more.
